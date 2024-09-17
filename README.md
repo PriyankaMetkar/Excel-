@@ -67,8 +67,11 @@ Measurement of the total discounts provided and their effect on the overall prof
 
 🧰 **Tools and Techniques**
 Excel: Used for data analysis, pivot tables, and creating interactive dashboards.
+
 Formulas: Advanced formulas to calculate profit margins, ratios, and trends.
+
 Pivot Tables: For summarizing data by region, category, state, and customer segments.
+
 Charts: Visual representation of data insights (bar charts, line charts, pie charts, etc.).
 
 📈 **Key Insights**
